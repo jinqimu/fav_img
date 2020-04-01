@@ -5,7 +5,7 @@ To find your favourite focal length and so on
 
 ### 已知问题
 
-> 1. 同一张照片的raw和jpg会计算成两张照片
+> 1. 无法读取某些RAW文件
 
 ### *下个版本*
 
